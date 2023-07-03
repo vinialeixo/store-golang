@@ -1,9 +1,28 @@
 package main
 
 import (
+	"database/sql"
+	"fmt"
 	"html/template"
 	"net/http"
+
+	_ "github.com/go-sql-driver/mysql"
 )
+
+func ConnectDB() (*sql.DB, error) {
+	db, err := sql.Open("mysql", "master1234@tcp(localhost:3306)/hg?charset=utf8mb4&parseTime=True&loc=Local")
+	if err != nil {
+		return nil, err
+	}
+
+	err = db.Ping()
+	if err != nil {
+		db.Close()
+		return nil, err
+	}
+
+	return db, nil
+}
 
 type Products struct {
 	Nome        string
@@ -15,6 +34,13 @@ type Products struct {
 var temp = template.Must(template.ParseGlob("templates/*.html"))
 
 func main() {
+	db, err := ConnectDB()
+	if err != nil {
+		fmt.Println("Failed to connect to the database:", err)
+		return
+	}
+	defer db.Close()
+
 	http.HandleFunc("/", index)
 	http.ListenAndServe(":8000", nil)
 
