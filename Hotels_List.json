@@ -1,0 +1,704 @@
+{
+    "Error": {
+        "Code": "",
+        "Description": ""
+    },
+    "CorrelationID": "d43a35e3-ce7a-44fe-a3c5-b7489ee2e930",
+    "Response": [
+        {
+            "HotelID": "71495",
+            "HotelName": "Ponta dos Ganchos Exclusive Resort",
+            "HotelAddress": "Rua Eupideo Alves do Nascimento, 104 , Governador Celso Ramos, CEP 88190-000, Brazil",
+            "City": "Governador Celso Ramos",
+            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelType": "Hotel",
+            "HotelPhone": "+55 48 3262-5040",
+            "Category": {
+                "Code": "5",
+                "Description": "5 Estrellas"
+            },
+            "Position": {
+                "Latitude": "-48.5512",
+                "Longitude": "-27.3052"
+            },
+            "Settings": {
+                "numberOfFloors": null,
+                "numberOfRooms": 25
+            },
+            "RoomType": "Bungalow",
+            "Accommodation": "FULL",
+            "refundable": "true",
+            "Thumb": {
+                "Description": "Principal",
+                "Url": "https://hg-static.hyperguest.com/71495/images/image_5140210_original.jpg"
+            },
+            "RoomRate": {
+                "RatePlanCode": "298605*ES*IHO4*27659",
+                "Price": {
+                    "AmountAfterTax": "1085.2",
+                    "CurrencyCode": "BRL",
+                    "DecimalPlaces": "2",
+                    "AmountIncludingMarkup": "586779.2"
+                }
+            },
+            "Facilities": [
+                {
+                    "id": 2006,
+                    "type": "room",
+                    "name": "Air conditioning",
+                    "classification": "Amenity",
+                    "category": "Heating, Ventilation, & Air Conditioning",
+                    "popular": 0,
+                    "nameSlug": "air-conditioning",
+                    "categorySlug": "heating-ventilation-air-conditioning"
+                },
+                {
+                    "id": 2011,
+                    "type": "room",
+                    "name": "Balcony",
+                    "classification": "Amenity",
+                    "category": "Features & Views",
+                    "popular": 0,
+                    "nameSlug": "balcony",
+                    "categorySlug": "features-views"
+                },
+                {
+                    "id": 2013,
+                    "type": "room",
+                    "name": "Bathrobe",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "bathrobe",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2018,
+                    "type": "room",
+                    "name": "Bidet",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "bidet",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2035,
+                    "type": "room",
+                    "name": "Conditioner",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "conditioner",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2038,
+                    "type": "room",
+                    "name": "Desk",
+                    "classification": "Amenity",
+                    "category": "Business Features",
+                    "popular": 0,
+                    "nameSlug": "desk",
+                    "categorySlug": "business-features"
+                },
+                {
+                    "id": 2041,
+                    "type": "room",
+                    "name": "Dining table",
+                    "classification": "Amenity",
+                    "category": "Food & Drink",
+                    "popular": 0,
+                    "nameSlug": "dining-table",
+                    "categorySlug": "food-drink"
+                },
+                {
+                    "id": 2043,
+                    "type": "room",
+                    "name": "Dressing room",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "dressing-room",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2055,
+                    "type": "room",
+                    "name": "Feather pillow",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "feather-pillow",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2058,
+                    "type": "room",
+                    "name": "Fireplace",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "fireplace",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2069,
+                    "type": "room",
+                    "name": "Heating",
+                    "classification": "Amenity",
+                    "category": "Heating, Ventilation, & Air Conditioning",
+                    "popular": 0,
+                    "nameSlug": "heating",
+                    "categorySlug": "heating-ventilation-air-conditioning"
+                },
+                {
+                    "id": 2080,
+                    "type": "room",
+                    "name": "Ironing facilities",
+                    "classification": "Service",
+                    "category": "Cleaning services",
+                    "popular": 0,
+                    "nameSlug": "ironing-facilities",
+                    "categorySlug": "cleaning-services"
+                },
+                {
+                    "id": 2085,
+                    "type": "room",
+                    "name": "Lockers",
+                    "classification": "Amenity",
+                    "category": "Safety & Security",
+                    "popular": 0,
+                    "nameSlug": "lockers",
+                    "categorySlug": "safety-security"
+                },
+                {
+                    "id": 2087,
+                    "type": "room",
+                    "name": "Minibar",
+                    "classification": "Amenity",
+                    "category": "Food & Drink",
+                    "popular": 0,
+                    "nameSlug": "minibar",
+                    "categorySlug": "food-drink"
+                },
+                {
+                    "id": 2095,
+                    "type": "room",
+                    "name": "Outdoor furniture",
+                    "classification": "Amenity",
+                    "category": "Outdoor features & Views",
+                    "popular": 0,
+                    "nameSlug": "outdoor-furniture",
+                    "categorySlug": "outdoor-features-views"
+                },
+                {
+                    "id": 2099,
+                    "type": "room",
+                    "name": "Patio",
+                    "classification": "Amenity",
+                    "category": "Outdoor features & Views",
+                    "popular": 0,
+                    "nameSlug": "patio",
+                    "categorySlug": "outdoor-features-views"
+                },
+                {
+                    "id": 2102,
+                    "type": "room",
+                    "name": "Pool towels",
+                    "classification": "Amenity",
+                    "category": "General",
+                    "popular": 0,
+                    "nameSlug": "pool-towels",
+                    "categorySlug": "general"
+                },
+                {
+                    "id": 2112,
+                    "type": "room",
+                    "name": "Refrigerator",
+                    "classification": "Amenity",
+                    "category": "Appliances",
+                    "popular": 0,
+                    "nameSlug": "refrigerator",
+                    "categorySlug": "appliances"
+                },
+                {
+                    "id": 2125,
+                    "type": "room",
+                    "name": "Shampoo",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "shampoo",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2127,
+                    "type": "room",
+                    "name": "Shower",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "shower",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2129,
+                    "type": "room",
+                    "name": "Slippers",
+                    "classification": "Amenity",
+                    "category": "General",
+                    "popular": 0,
+                    "nameSlug": "slippers",
+                    "categorySlug": "general"
+                },
+                {
+                    "id": 2130,
+                    "type": "room",
+                    "name": "Sofa",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "sofa",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2131,
+                    "type": "room",
+                    "name": "Sofa bed",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "sofa-bed",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2138,
+                    "type": "room",
+                    "name": "Terrace",
+                    "classification": "Amenity",
+                    "category": "Outdoor features & Views",
+                    "popular": 0,
+                    "nameSlug": "terrace",
+                    "categorySlug": "outdoor-features-views"
+                },
+                {
+                    "id": 2141,
+                    "type": "room",
+                    "name": "Toilet",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "toilet",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2143,
+                    "type": "room",
+                    "name": "Towels",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "towels",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2146,
+                    "type": "room",
+                    "name": "TV",
+                    "classification": "Amenity",
+                    "category": "Electronics & Entertainment",
+                    "popular": 0,
+                    "nameSlug": "tv",
+                    "categorySlug": "electronics-entertainment"
+                },
+                {
+                    "id": 2152,
+                    "type": "room",
+                    "name": "View",
+                    "classification": "Amenity",
+                    "category": "Outdoor features & Views",
+                    "popular": 0,
+                    "nameSlug": "view",
+                    "categorySlug": "outdoor-features-views"
+                },
+                {
+                    "id": 2157,
+                    "type": "room",
+                    "name": "Wine glasses",
+                    "classification": "Amenity",
+                    "category": "Food & Drink",
+                    "popular": 0,
+                    "nameSlug": "wine-glasses",
+                    "categorySlug": "food-drink"
+                }
+            ],
+            "Affiliations": "",
+            "Consortias": "",
+            "Prefered": ""
+        },
+        {
+            "HotelID": "71495",
+            "HotelName": "Poseidonion Grand Hotel",
+            "HotelAddress": "Dapia, Spetses, 18050, Greece",
+            "City": "Spetses",
+            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelType": "Hotel",
+            "HotelPhone": "+30 22980 74553",
+            "Category": {
+                "Code": "5",
+                "Description": "5 Estrellas"
+            },
+            "Position": {
+                "Latitude": "23.1549",
+                "Longitude": "37.2685"
+            },
+            "Settings": {
+                "numberOfFloors": 3,
+                "numberOfRooms": 51
+            },
+            "RoomType": "Double",
+            "Accommodation": "FULL",
+            "refundable": "true",
+            "Thumb": {
+                "Description": "Principal",
+                "Url": "https://hg-static.hyperguest.com/72427/images/image_5191516_original.jpg"
+            },
+            "RoomRate": {
+                "RatePlanCode": "298605*ES*IHO4*27659",
+                "Price": {
+                    "AmountAfterTax": "1085.2",
+                    "CurrencyCode": "EUR",
+                    "DecimalPlaces": "2",
+                    "AmountIncludingMarkup": "586779.2"
+                }
+            },
+            "Facilities": [
+                {
+                    "id": 2006,
+                    "type": "room",
+                    "name": "Air conditioning",
+                    "classification": "Amenity",
+                    "category": "Heating, Ventilation, & Air Conditioning",
+                    "popular": 0,
+                    "nameSlug": "air-conditioning",
+                    "categorySlug": "heating-ventilation-air-conditioning"
+                },
+                {
+                    "id": 2013,
+                    "type": "room",
+                    "name": "Bathrobe",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "bathrobe",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2035,
+                    "type": "room",
+                    "name": "Conditioner",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "conditioner",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2038,
+                    "type": "room",
+                    "name": "Desk",
+                    "classification": "Amenity",
+                    "category": "Business Features",
+                    "popular": 0,
+                    "nameSlug": "desk",
+                    "categorySlug": "business-features"
+                },
+                {
+                    "id": 2069,
+                    "type": "room",
+                    "name": "Heating",
+                    "classification": "Amenity",
+                    "category": "Heating, Ventilation, & Air Conditioning",
+                    "popular": 0,
+                    "nameSlug": "heating",
+                    "categorySlug": "heating-ventilation-air-conditioning"
+                },
+                {
+                    "id": 2072,
+                    "type": "room",
+                    "name": "Hypoallergenic pillow",
+                    "classification": "Amenity",
+                    "category": "Room Amenities",
+                    "popular": 0,
+                    "nameSlug": "hypoallergenic-pillow",
+                    "categorySlug": "room-amenities"
+                },
+                {
+                    "id": 2087,
+                    "type": "room",
+                    "name": "Minibar",
+                    "classification": "Amenity",
+                    "category": "Food & Drink",
+                    "popular": 0,
+                    "nameSlug": "minibar",
+                    "categorySlug": "food-drink"
+                },
+                {
+                    "id": 2102,
+                    "type": "room",
+                    "name": "Pool towels",
+                    "classification": "Amenity",
+                    "category": "General",
+                    "popular": 0,
+                    "nameSlug": "pool-towels",
+                    "categorySlug": "general"
+                },
+                {
+                    "id": 2125,
+                    "type": "room",
+                    "name": "Shampoo",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "shampoo",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2127,
+                    "type": "room",
+                    "name": "Shower",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "shower",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2129,
+                    "type": "room",
+                    "name": "Slippers",
+                    "classification": "Amenity",
+                    "category": "General",
+                    "popular": 0,
+                    "nameSlug": "slippers",
+                    "categorySlug": "general"
+                },
+                {
+                    "id": 2141,
+                    "type": "room",
+                    "name": "Toilet",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "toilet",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2143,
+                    "type": "room",
+                    "name": "Towels",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "towels",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2146,
+                    "type": "room",
+                    "name": "TV",
+                    "classification": "Amenity",
+                    "category": "Electronics & Entertainment",
+                    "popular": 0,
+                    "nameSlug": "tv",
+                    "categorySlug": "electronics-entertainment"
+                },
+                {
+                    "id": 2152,
+                    "type": "room",
+                    "name": "View",
+                    "classification": "Amenity",
+                    "category": "Outdoor features & Views",
+                    "popular": 0,
+                    "nameSlug": "view",
+                    "categorySlug": "outdoor-features-views"
+                }
+            ],
+            "Affiliations": "",
+            "Consortias": "",
+            "Prefered": ""
+        },
+        {
+            "HotelID": "60125",
+            "HotelName": "Hotel Hermitage",
+            "HotelAddress": "Vicolo Marzio,1 (Piazza Del Pesce), Uffizi, 50122 Florence, Italy",
+            "City": "Florence",
+            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelType": "Hotel",
+            "HotelPhone": "+39 055 287216 ",
+            "Category": {
+                "Code": "3",
+                "Description": "3 Estrellas"
+            },
+            "Position": {
+                "Latitude": "11.254",
+                "Longitude": "43.7685"
+            },
+            "RoomType": "Double",
+            "Accommodation": "FULL",
+            "refundable": "true",
+            "Thumb": {
+                "Description": "Principal",
+                "Url": "https://hg-static.hyperguest.com/60125/images/image_4218102_original.jpg"
+            },
+            "RoomRate": {
+                "RatePlanCode": "36903*ES*IHO4*27659",
+                "Price": {
+                    "AmountAfterTax": "586779.2",
+                    "CurrencyCode": "COP",
+                    "DecimalPlaces": "2",
+                    "AmountIncludingMarkup": "586779.2"
+                }
+            },
+            "Facilities": [
+                {
+                    "id": 2006,
+                    "type": "room",
+                    "name": "Air conditioning",
+                    "classification": "Amenity",
+                    "category": "Heating, Ventilation, & Air Conditioning",
+                    "popular": 0,
+                    "nameSlug": "air-conditioning",
+                    "categorySlug": "heating-ventilation-air-conditioning"
+                },
+                {
+                    "id": 2038,
+                    "type": "room",
+                    "name": "Desk",
+                    "classification": "Amenity",
+                    "category": "Business Features",
+                    "popular": 0,
+                    "nameSlug": "desk",
+                    "categorySlug": "business-features"
+                },
+                {
+                    "id": 2127,
+                    "type": "room",
+                    "name": "Shower",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "shower",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2141,
+                    "type": "room",
+                    "name": "Toilet",
+                    "classification": "Amenity",
+                    "category": "Bathroom",
+                    "popular": 0,
+                    "nameSlug": "toilet",
+                    "categorySlug": "bathroom"
+                },
+                {
+                    "id": 2146,
+                    "type": "room",
+                    "name": "TV",
+                    "classification": "Amenity",
+                    "category": "Electronics & Entertainment",
+                    "popular": 0,
+                    "nameSlug": "tv",
+                    "categorySlug": "electronics-entertainment"
+                }
+            ],
+            "images": [
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218142,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218142_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:09:47.000Z",
+                    "size": {
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "tags": []
+                },
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218143,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218143_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:12:47.000Z",
+                    "size": {
+                        "height": 332,
+                        "width": 500
+                    },
+                    "tags": []
+                },
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218144,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218144_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:12:47.000Z",
+                    "size": {
+                        "height": 332,
+                        "width": 500
+                    },
+                    "tags": []
+                },
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218145,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218145_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:12:47.000Z",
+                    "size": {
+                        "height": 512,
+                        "width": 770
+                    },
+                    "tags": []
+                },
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218146,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218146_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:09:47.000Z",
+                    "size": {
+                        "height": 512,
+                        "width": 770
+                    },
+                    "tags": []
+                },
+                {
+                    "type": "photo",
+                    "description": "",
+                    "priority": 50,
+                    "id": 4218147,
+                    "uri": "https://hg-static.hyperguest.com/60125/images/image_4218147_original.jpg",
+                    "created": "2023-01-13T12:09:44.000Z",
+                    "updated": "2023-01-13T12:12:47.000Z",
+                    "size": {
+                        "height": 768,
+                        "width": 510
+                    },
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}
