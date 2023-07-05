@@ -10,7 +10,7 @@
             "HotelName": "Ponta dos Ganchos Exclusive Resort",
             "HotelAddress": "Rua Eupideo Alves do Nascimento, 104 , Governador Celso Ramos, CEP 88190-000, Brazil",
             "City": "Governador Celso Ramos",
-            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelDescription": "Incorporated in the same ambience, two-storeys, offers a generous living room area and a bedroom with a clean style decoration and a double bed. With approximately 80 square meters, the environment is functional, light, airy and cozy. Enjoy the two decks with the Emerald Coast view.\n\n* We host children over 14 years old only on special occasions such as Mother’s and Father’s Day and Christmas. We do not accept pets.",
             "HotelType": "Hotel",
             "HotelPhone": "+55 48 3262-5040",
             "Category": {
@@ -27,10 +27,10 @@
             },
             "RoomType": "Bungalow",
             "Accommodation": "FULL",
-            "refundable": "true",
+            "refundable": "false",
             "Thumb": {
                 "Description": "Principal",
-                "Url": "https://hg-static.hyperguest.com/71495/images/image_5140210_original.jpg"
+                "Url": "https://hg-static.hyperguest.com/71495/images/image_5140278_original.jpg"
             },
             "RoomRate": {
                 "RatePlanCode": "298605*ES*IHO4*27659",
@@ -342,7 +342,7 @@
             "HotelName": "Poseidonion Grand Hotel",
             "HotelAddress": "Dapia, Spetses, 18050, Greece",
             "City": "Spetses",
-            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelDescription": "IDOLO Spa is an enchanting wellness destination for guests of the Poseidonion Grand Hotel. Offering a wide range of holistic treatments inspired by the Mediterranean, our Spa is a haven for health, healing and harmony. Each guest is taken on a personalised journey to nurture their mind, body and soul, escorted by the signature services and intuitive touch of the Poseidonion Grand Hotel.",
             "HotelType": "Hotel",
             "HotelPhone": "+30 22980 74553",
             "Category": {
@@ -534,7 +534,7 @@
             "HotelName": "Hotel Hermitage",
             "HotelAddress": "Vicolo Marzio,1 (Piazza Del Pesce), Uffizi, 50122 Florence, Italy",
             "City": "Florence",
-            "HotelDescription": "Ponemos a su disposición 548 habitaciones, todas perfectamente equipadas para satisfacer las necesidades de nuestros clientes más exigentes y permitirles disfrutar al máximo de todo el esplendor y la belleza del Caribe. Sus instalaciones constan de 3 piscinas, 6 Restaurantes, 7 Bares, Discoteca, Show Área, Zonas WiFi (Lobby y Teatro) y para los más pequeños un Mini Club, todo en medio de un paradisíaco entorno natural rodeado de palmeras, color y el aroma a “vida” que emana el mar Caribe. Excelentemente comunicado con 3 aeropuertos internacionales, el hotel está a tan solo 20 minutos del Aeropuerto de Punta Cana. Una ubicación ideal para aquellos que buscan un Oasis próximo a las principales atracciones turísticas de la zona.",
+            "HotelDescription": "An incredible journey through your senses will restore the balance between health and beauty, in order to achieve the ultimate inner harmony. Highly-qualified and specifically trained staff perform tailor-made face&body treatments to meet the needs of men and women.",
             "HotelType": "Hotel",
             "HotelPhone": "+39 055 287216 ",
             "Category": {

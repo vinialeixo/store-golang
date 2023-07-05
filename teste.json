@@ -1,8 +1,6 @@
 [
     {
         "name": "Ponta dos Ganchos Exclusive Resort",
-        "rating": 5,
-        "group": "",
         "coordinates": {
             "longitude": -48.5512,
             "latitude": -27.3052
@@ -4213,8 +4211,6 @@
     },
     {
         "name": "Poseidonion Grand Hotel",
-        "rating": 5,
-        "group": "",
         "coordinates": {
             "longitude": 23.1549,
             "latitude": 37.2685
@@ -9729,7 +9725,6 @@
     },
     {
         "name": "Hotel Hermitage",
-        "rating": 3,
         "coordinates": {
             "longitude": 11.254,
             "latitude": 43.7685
